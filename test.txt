@@ -1,0 +1,1 @@
+I am writing information in a text file.
